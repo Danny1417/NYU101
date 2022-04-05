@@ -12,10 +12,11 @@
 				<h2>Software Developer</h2>
 				<hr>
 				<h3>About Me:</h3>
-					<h4>My hometown is HOMETOWN.</h4>
-					<h4>My favorite color is COLOR.</h4>
-					<h4>My favorite food is FOOD.</h4>
-					<h4>If I could be any animal, I would be A/AN ANIMAL.</h4>
+					<h4>My hometown is NYC.</h4>
+					<h4>My favorite color is Blue.</h4>
+					<h4>My favorite food is Hamburgers.</h4>
+					<h4>If I could be any animal, I would be A Falcon.</h4>
 			</div>
+			<p>Meow! Meow! Meow!</p>
 		  </body>
 		</html>
